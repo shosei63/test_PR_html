@@ -30,7 +30,7 @@ eiino
 maui
 kakanie
 shtoyoda
-hayamamoto
+hayamamoto←見つけました。マージしてください
 haakashi
 yuishikawa
 shiwase
