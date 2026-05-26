@@ -16,7 +16,7 @@ rikoseki
 yukoyanagi
 tokondou
 hutakahashi
-rytakamatsu
+rytakamatsu ←見つけました。マージしてください。
 kotsugihiro
 dthhung
 huyokobori
