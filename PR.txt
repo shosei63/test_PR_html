@@ -40,7 +40,7 @@ shkondou
 tekondou
 ansaduka ←見つけました。マージしてください
 kotakezawa
-tohayakawa
+tohayakawa ←見つけました。マージしてください。
 tahiramatsu
 yuhujimoto
 shuemori
