@@ -29,7 +29,7 @@ akinukai
 eiino ←見つけました。マージしてください
 maui
 kakanie ←見つけました。マージしてください。
-shtoyoda
+shtoyoda←見つけました。マージしてください
 hayamamoto←見つけました。マージしてください
 haakashi
 yuishikawa
