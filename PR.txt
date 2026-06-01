@@ -12,41 +12,41 @@
 
 shkakizaki
 shkajita
-rikoseki
+rikoseki　←見つけました。マージしてください。
 yukoyanagi
 tokondou
 hutakahashi
-rytakamatsu
+rytakamatsu ←見つけました。マージしてください。
 kotsugihiro ←見つけました。マージしてください.
-dthhung
+dthhung-見つかりました、マージしてください。
 huyokobori
-mayoshida
+mayoshida　←見つけました。マージしてください
 juasano
 taishida
 akitou
-reitou
+reitou ←見つけました。マージしてください
 akinukai
-eiino
+eiino ←見つけました。マージしてください
 maui
-kakanie
-shtoyoda
-hayamamoto
+kakanie ←見つけました。マージしてください。
+shtoyoda←見つけました。マージしてください
+hayamamoto←見つけました。マージしてください
 haakashi
 yuishikawa
 shiwase
 shendou
-aiozaki
+aiozaki←見つけました。マージしてください
 shkondou
-tekondou
-ansaduka
+tekondou 修正しました。マージしてください。
+ansaduka ←見つけました。マージしてください
 kotakezawa
-tohayakawa
+tohayakawa ←見つけました。マージしてください。
 tahiramatsu
-yuhujimoto
-shuemori
+yuhujimoto ←見つけました。マージしてください。
+shuemori ←見つけました。マージしてください
 yuokamoto
-shkimura
+shkimura ←見つけました。マージしてください
 yutashiro
-mahukuda
+mahukuda 見つけました。マージしてください。
 sehukumoto
 kamaemura
