@@ -17,7 +17,7 @@ yukoyanagi
 tokondou
 hutakahashi
 rytakamatsu
-kotsugihiro ←見つけました。マージしてください
+kotsugihiro ←見つけました。マージしてください.
 dthhung
 huyokobori
 mayoshida
