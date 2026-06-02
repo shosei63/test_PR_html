@@ -33,7 +33,7 @@ shtoyoda←見つけました。マージしてください
 hayamamoto←見つけました。マージしてください
 haakashi
 yuishikawa
-shiwase
+shiwase←見つけました。マージしてください。
 shendou
 aiozaki←見つけました。マージしてください
 shkondou
