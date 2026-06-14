@@ -31,5 +31,6 @@ app.post('/api/messages', async (req, res) => {
 });
 
 app.listen(3000, () => {
-  console.log('サーバーが起動しました: http://localhost:3000');
-});
+ console.log(
+  `サーバーが起動しました(更新版): http://localhost:${process.env.PORT || 3000}`
+);
